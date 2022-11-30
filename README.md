@@ -1,1 +1,1 @@
-# Grid
+Showing off what i know about using the grid layout in css and how helpful it can be.
